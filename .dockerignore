@@ -1,0 +1,5 @@
+# ignore everything
+*
+
+# un-ignore the actual used files
+!default.conf
